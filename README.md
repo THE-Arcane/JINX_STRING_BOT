@@ -1,4 +1,4 @@
-# STRING_BOT
+# STRING BOT
 
 
 > A star ⭐ from you means a lot to us!
