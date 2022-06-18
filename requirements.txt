@@ -4,3 +4,4 @@ TgCrypto
 sqlalchemy
 psycopg2
 pyromod
+pyrogram==1.4.12
