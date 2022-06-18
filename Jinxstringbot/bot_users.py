@@ -1,4 +1,4 @@
-from Jinxstingbot.database import SESSION
+from Jinxstringbot.database import SESSION
 from Jinxstringbot.database.users_sql import Users, num_users
 from pyrogram.types import Message
 from pyrogram import Client, filters
