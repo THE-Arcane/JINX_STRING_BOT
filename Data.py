@@ -8,10 +8,10 @@ Hey {}
 
 🥀ᴡᴇʟᴄᴏᴍᴇ to {}
 Bot..! 💫 ᴀ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ.
-[➼](https://telegra.ph/file/244a1d5f862b0991d13b6.jpg) ᴄʟɪᴄᴋ ᴏɴ ɢᴇɴʀᴀᴛᴇ sᴛʀɪɴɢ ғᴏʀ ɢᴇɴᴇʀᴀᴛ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ..!✨
-───────────────────────
+[➩](https://telegra.ph/file/9f633a7e5cfa5c91d2b9c.jpg) ᴄʟɪᴄᴋ ᴏɴ ɢᴇɴʀᴀᴛᴇ sᴛʀɪɴɢ ғᴏʀ ɢᴇɴᴇʀᴀᴛ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ..!✨
+❖ ── ✦ ──『❤️』── ✦♡ 
 ᴊɪɴx sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ ʙʏ ᴛᴇᴀᴍ ᴀʀᴄᴀɴᴇ
-───────────────────────
+❖ ── ✦ ──『🖤』── ✦♡
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
@@ -20,22 +20,22 @@ You can use me to generate pyrogram and telethon string session. Use below butto
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("🔥 sᴛᴀʀᴛ Generating Session ⚡", callback_data="generate")],
+        [InlineKeyboardButton("🥀 𝑺𝑻𝑨𝑹𝑻 𝑮𝑬𝑵𝑹𝑨𝑻𝑰𝑵𝑮 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 🥀", callback_data="generate")],
     ]
 
     generate_button = [
-        [InlineKeyboardButton(" sᴛᴀʀᴛ Generating Session ⚡", callback_data="generate")]
+        [InlineKeyboardButton("🥀 𝑺𝑻𝑨𝑹𝑻 𝑮𝑬𝑵𝑹𝑨𝑻𝑰𝑵𝑮 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 🥀", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("☂️ Start Generating Session ☔", callback_data="generate")],
-        [InlineKeyboardButton("🥀 Support Group ✨", url="https://t.me/Arcane_bots")],
+        [InlineKeyboardButton("㊍  𝑺𝑻𝑨𝑹𝑻 𝑮𝑬𝑵𝑹𝑨𝑻𝑰𝑵𝑮 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 🌙", callback_data="generate")],
+        [InlineKeyboardButton("🥀 𝐶𝐻𝐴𝑇𝑇𝐼𝑁𝐺 𝐺𝑅𝑂𝑈𝑃 ✨", url="https://t.me/Arcane_chatting")],
         [
             InlineKeyboardButton("How to Use 📖❔", callback_data="help"),
             InlineKeyboardButton("📜 About 👀", callback_data="about")
         ],
-        [InlineKeyboardButton("💜 More Amazing bots 💜", url="https://t.me/bots")],
+        [InlineKeyboardButton("🀄 𝖒𝖔𝖗𝖊 𝖆𝖒𝖆𝚣𝖎𝖓𝖌 𝖇𝖔𝖙𝖘 💜", url="https://t.me/Arcane_bots")],
     ]
 
     # Help Message
