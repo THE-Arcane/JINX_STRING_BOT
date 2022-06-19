@@ -9,9 +9,9 @@ Hey {}
 🥀ᴡᴇʟᴄᴏᴍᴇ to {}
 Bot..! 💫 ᴀ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ.
 [➼](https://telegra.ph/file/244a1d5f862b0991d13b6.jpg) ᴄʟɪᴄᴋ ᴏɴ ɢᴇɴʀᴀᴛᴇ sᴛʀɪɴɢ ғᴏʀ ɢᴇɴᴇʀᴀᴛ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ..!✨
-────────────────────────
+───────────────────────
 ᴊɪɴx sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ ʙʏ ᴛᴇᴀᴍ ᴀʀᴄᴀɴᴇ
-────────────────────────
+───────────────────────
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
@@ -30,12 +30,12 @@ You can use me to generate pyrogram and telethon string session. Use below butto
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("☂️ Start Generating Session ☔", callback_data="generate")],
-        [InlineKeyboardButton("🌝 Bot Status and More Bots 💕", url="https://t.me/kigo_omfo")],
+        [InlineKeyboardButton("🥀 Support Group ✨", url="https://t.me/Arcane_bots")],
         [
             InlineKeyboardButton("How to Use 📖❔", callback_data="help"),
             InlineKeyboardButton("📜 About 👀", callback_data="about")
         ],
-        [InlineKeyboardButton("💜 More Amazing bots 💜", url="https://t.me/")],
+        [InlineKeyboardButton("💜 More Amazing bots 💜", url="https://t.me/bots")],
     ]
 
     # Help Message
@@ -56,7 +56,7 @@ You can use me to generate pyrogram and telethon string session. Use below butto
 
 A telegram bot to Manage group and generate pyrogram and telethon string session by @TeamDeeCode
 
-Source Code : [😙Click Here💫]()
+Source Code : [😙 Click Here 💫]()
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
