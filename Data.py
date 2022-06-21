@@ -9,13 +9,11 @@ Hey {}
 🥀ᴡᴇʟᴄᴏᴍᴇ to {}
 Bot..! 💫 ᴀ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ.
 [➩](https://telegra.ph/file/9f633a7e5cfa5c91d2b9c.jpg) ᴄʟɪᴄᴋ ᴏɴ ɢᴇɴʀᴀᴛᴇ sᴛʀɪɴɢ ғᴏʀ ɢᴇɴᴇʀᴀᴛ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ..!✨
-❖ ── ✦ ──『❤️』── ✦♡ 
-ᴊɪɴx sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ ʙʏ ᴛᴇᴀᴍ ᴀʀᴄᴀɴᴇ
-❖ ── ✦ ──『🖤』── ✦♡
-Still reading?
-You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-✗ Pᴏᴡᴇʀᴇᴅ 🔥 Bʏ: [ᴀʀᴄᴀɴᴇ!](https://t.me/Team_Arcane)
+ᴊɪɴx sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ ʙʏ ᴛᴇᴀᴍ ᴀʀᴄᴀɴᴇ
+❖ ─ ✦ ─ 🖤 ─ ✦
+
+✗ Pᴏᴡᴇʀᴇᴅ 🔥 Bʏ: [ᴀʀᴄᴀɴᴇ!](https://t.me/Arcane_bots)
     """
 
     # Home Button
@@ -40,23 +38,23 @@ You can use me to generate pyrogram and telethon string session. Use below butto
 
     # Help Message
     HELP = """
-🥀 **Available Commands** 🔥
+🥀 **𝐴𝑣𝑎𝑖𝑙𝑎𝑏𝑙𝑒 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠** 🔥
 
-/about - About The Bot
-/help - This Message
-/start - Start the Bot
-/generate - Start Generating Session
-/cancel - Cancel the process
-/restart - Cancel the process
+/about - 𝑨𝒃𝒐𝒖𝒕 𝑻𝒉𝒆 𝑩𝒐𝒕
+/help - 𝑻𝒉𝒊𝒔 𝑴𝒆𝒔𝒔𝒂𝒈𝒆
+/start - 𝑺𝒕𝒂𝒓𝒕 𝒕𝒉𝒆 𝑩𝒐𝒕
+/generate - 𝑺𝒕𝒂𝒓𝒕 𝑮𝒆𝒏𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝑺𝒆𝒔𝒔𝒊𝒐𝒏
+/cancel - 𝑪𝒂𝒏𝒄𝒆𝒍 𝒕𝒉𝒆 𝒑𝒓𝒐𝒄𝒆𝒔𝒔
+/restart - 𝑪𝒂𝒏𝒄𝒆𝒍 𝒕𝒉𝒆 𝒑𝒓𝒐𝒄𝒆𝒔𝒔
 """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to Manage group and generate pyrogram and telethon string session by @TeamDeeCode
+A ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙʏ @Arcane_bots
 
-Source Code : [😙 Click Here 💫]()
+Source Code : [👉🏻](https://telegra.ph/file/fb9884eb2fd19afad29d6.mp4)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
